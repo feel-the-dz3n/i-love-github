@@ -1,2 +1,2 @@
-# i-love-github
-I love github
+# I Love GitHub
+And you? :thinking:
